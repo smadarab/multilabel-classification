@@ -1,0 +1,17 @@
+
+
+apply for ncr mediassistant
+
+best 2000-n,pca=1500,features 2921
+
+
+
+
+sample -2000,no of columns-2921,accuarcy of br -(0.49833333333333335, 0.5516666666666666),accuarcy of cc -(0.6416666666666667, 0.6366666666666667),
+accuarcy of lp -(0.55, 0.61),no of columns-1500,accuarcy of binaryrelevance_pca -(0.7966666666666666, 0.6216666666666667),
+accuarcy of classifier_chains_pca -(0.6416666666666667, 0.6366666666666667),accuarcy of labelpowerset_pca -(0.55, 0.61)
+
+ sample -2000,no of columns-2921,accuarcy of br -(0.49833333333333335, 0.5516666666666666),
+accuarcy of cc -(0.5716666666666667, 0.6316666666666667),accuarcy of lp -(0.46166666666666667, 0.61),
+no of columns-1500,accuarcy of binaryrelevance_pca -(0.7966666666666666, 0.625),
+accuarcy of classifier_chains_pca -(0.5716666666666667, 0.6316666666666667),accuarcy of labelpowerset_pca -(0.46166666666666667, 0.61)
